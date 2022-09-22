@@ -169,7 +169,7 @@ span.logo-accent {
 .auth-nav-link:focus {
   color: var(--accent-color);
 }
-header.top-page {
+header.top-page-border {
   border-bottom: 1px solid var(--container-border-color);
 }
 
